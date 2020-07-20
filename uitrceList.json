@@ -1,0 +1,506 @@
+[
+  {
+    "value": 100409,
+    "text": "AMTALI"
+  },
+  {
+    "value": 507605,
+    "text": "ATGHARIA"
+  },
+  {
+    "value": 307204,
+    "text": "ATPARA"
+  },
+  {
+    "value": 558503,
+    "text": "BADARGANJ"
+  },
+  {
+    "value": 506909,
+    "text": "BAGATIPARA"
+  },
+  {
+    "value": 404109,
+    "text": "BAGHER PARA"
+  },
+  {
+    "value": 508112,
+    "text": "BAGHMARA"
+  },
+  {
+    "value": 100607,
+    "text": "BAKERGANJ"
+  },
+  {
+    "value": 559408,
+    "text": "BALIADANGI"
+  },
+  {
+    "value": 308207,
+    "text": "BALIAKANDI"
+  },
+  {
+    "value": 100419,
+    "text": "BAMNA"
+  },
+  {
+    "value": 302600,
+    "text": "BANBEIS"
+  },
+  {
+    "value": 603611,
+    "text": "BANIACHONG"
+  },
+  {
+    "value": 107838,
+    "text": "BAUPHAL"
+  },
+  {
+    "value": 609117,
+    "text": "BEANI BAZAR"
+  },
+  {
+    "value": 107914,
+    "text": "BHANDARIA"
+  },
+  {
+    "value": 552717,
+    "text": "BIRAL"
+  },
+  {
+    "value": 552712,
+    "text": "BIRGANJ"
+  },
+  {
+    "value": 302918,
+    "text": "BOALMARI"
+  },
+  {
+    "value": 100921,
+    "text": "BURHANUDDIN"
+  },
+  {
+    "value": 201918,
+    "text": "BURICHANG"
+  },
+  {
+    "value": 304875,
+    "text": "Bajitpur"
+  },
+  {
+    "value": 202216,
+    "text": "CHAKARIA"
+  },
+  {
+    "value": 201518,
+    "text": "CHANDANAISH"
+  },
+  {
+    "value": 201927,
+    "text": "CHANDINA"
+  },
+  {
+    "value": 100925,
+    "text": "CHAR FASSON"
+  },
+  {
+    "value": 207510,
+    "text": "CHATKHIL"
+  },
+  {
+    "value": 201931,
+    "text": "CHAUDDAGRAM"
+  },
+  {
+    "value": 203014,
+    "text": "CHHAGALNAIYA"
+  },
+  {
+    "value": 609023,
+    "text": "CHHATAK"
+  },
+  {
+    "value": 603626,
+    "text": "CHUNARUGHAT"
+  },
+  {
+    "value": 207521,
+    "text": "COMPANIGANJ"
+  },
+  {
+    "value": 401831,
+    "text": "DAMURHUDA"
+  },
+  {
+    "value": 201936,
+    "text": "DAUDKANDI"
+  },
+  {
+    "value": 405039,
+    "text": "DAULATPUR"
+  },
+  {
+    "value": 557734,
+    "text": "DEBIGANJ"
+  },
+  {
+    "value": 404740,
+    "text": "DIGHALIA"
+  },
+  {
+    "value": 557312,
+    "text": "DIMLA"
+  },
+  {
+    "value": 404730,
+    "text": "DUMURIA"
+  },
+  {
+    "value": 201345,
+    "text": "FARIDGANJ"
+  },
+  {
+    "value": 501040,
+    "text": "GABTALI"
+  },
+  {
+    "value": 306122,
+    "text": "GAFFARGAON"
+  },
+  {
+    "value": 107857,
+    "text": "GALACHIPA"
+  },
+  {
+    "value": 405747,
+    "text": "GANGNI"
+  },
+  {
+    "value": 306123,
+    "text": "GAURIPUR"
+  },
+  {
+    "value": 309328,
+    "text": "GHATAIL"
+  },
+  {
+    "value": 553230,
+    "text": "GOBINDAGANJ"
+  },
+  {
+    "value": 506941,
+    "text": "GURUDASPUR"
+  },
+  {
+    "value": 306124,
+    "text": "HALUAGHAT"
+  },
+  {
+    "value": 303929,
+    "text": "ISLAMPUR"
+  },
+  {
+    "value": 609050,
+    "text": "JAMALGANJ"
+  },
+  {
+    "value": 404123,
+    "text": "JHIKARGACHHA"
+  },
+  {
+    "value": 303334,
+    "text": "KALIGANJ(Gazipur)"
+  },
+  {
+    "value": 408747,
+    "text": "KALIGANJ(Lalmonirhat)"
+  },
+  {
+    "value": 555239,
+    "text": "KALIGANJ(Satkhira)"
+  },
+  {
+    "value": 309347,
+    "text": "KALIHATI"
+  },
+  {
+    "value": 305440,
+    "text": "KALKINI"
+  },
+  {
+    "value": 104243,
+    "text": "KANTHALIA"
+  },
+  {
+    "value": 558542,
+    "text": "KAUNIA"
+  },
+  {
+    "value": 508850,
+    "text": "KAZIPUR"
+  },
+  {
+    "value": 204649,
+    "text": "KHAGRACHHARI SADAR"
+  },
+  {
+    "value": 503861,
+    "text": "KHETLAL"
+  },
+  {
+    "value": 557345,
+    "text": "KISHOREGANJ"
+  },
+  {
+    "value": 605865,
+    "text": "KULAURA"
+  },
+  {
+    "value": 405071,
+    "text": "KUMARKHALI"
+  },
+  {
+    "value": 304874,
+    "text": "Korimganj"
+  },
+  {
+    "value": 406552,
+    "text": "LOHAGARA"
+  },
+  {
+    "value": 303958,
+    "text": "MADARGANJ"
+  },
+  {
+    "value": 404471,
+    "text": "MAHESHPUR"
+  },
+  {
+    "value": 506447,
+    "text": "MANDA"
+  },
+  {
+    "value": 404161,
+    "text": "MANIRAMPUR"
+  },
+  {
+    "value": 306852,
+    "text": "MANOHARDI"
+  },
+  {
+    "value": 201376,
+    "text": "MATLAB DAKSHIN"
+  },
+  {
+    "value": 309366,
+    "text": "MIRZAPUR"
+  },
+  {
+    "value": 405566,
+    "text": "MOHAMMADPUR"
+  },
+  {
+    "value": 400160,
+    "text": "MORRELGANJ"
+  },
+  {
+    "value": 303558,
+    "text": "MUKSUDPUR"
+  },
+  {
+    "value": 100669,
+    "text": "MULADI"
+  },
+  {
+    "value": 201285,
+    "text": "NABINAGAR"
+  },
+  {
+    "value": 507056,
+    "text": "NACHOLE"
+  },
+  {
+    "value": 554961,
+    "text": "NAGESHWARI"
+  },
+  {
+    "value": 104273,
+    "text": "NALCHITY"
+  },
+  {
+    "value": 308970,
+    "text": "NALITABARI"
+  },
+  {
+    "value": 501067,
+    "text": "NANDIGRAM"
+  },
+  {
+    "value": 308665,
+    "text": "NARIA"
+  },
+  {
+    "value": 552769,
+    "text": "NAWABGANJ"
+  },
+  {
+    "value": 107987,
+    "text": "NESARABAD"
+  },
+  {
+    "value": 302617,
+    "text": "Nowabganj"
+  },
+  {
+    "value": 508172,
+    "text": "PABA"
+  },
+  {
+    "value": 404764,
+    "text": "PAIKGACHHA"
+  },
+  {
+    "value": 552777,
+    "text": "PARBATIPUR"
+  },
+  {
+    "value": 201561,
+    "text": "PATIYA"
+  },
+  {
+    "value": 506475,
+    "text": "PATNITALA"
+  },
+  {
+    "value": 558576,
+    "text": "PIRGANJ"
+  },
+  {
+    "value": 506479,
+    "text": "PORSHA"
+  },
+  {
+    "value": 307283,
+    "text": "PURBADHALA"
+  },
+  {
+    "value": 508182,
+    "text": "PUTHIA"
+  },
+  {
+    "value": 304876,
+    "text": "Pakundia"
+  },
+  {
+    "value": 605880,
+    "text": "RAJNAGAR"
+  },
+  {
+    "value": 400173,
+    "text": "RAMPAL"
+  },
+  {
+    "value": 202266,
+    "text": "RAMU"
+  },
+  {
+    "value": 208487,
+    "text": "RANGAMATI SADAR"
+  },
+  {
+    "value": 559486,
+    "text": "RANISANKAIL"
+  },
+  {
+    "value": 201574,
+    "text": "RAOZAN"
+  },
+  {
+    "value": 205158,
+    "text": "ROYPUR"
+  },
+  {
+    "value": 306864,
+    "text": "ROYPURA"
+  },
+  {
+    "value": 302984,
+    "text": "SADARPUR"
+  },
+  {
+    "value": 553282,
+    "text": "SADULLAPUR"
+  },
+  {
+    "value": 201294,
+    "text": "SARAIL"
+  },
+  {
+    "value": 508867,
+    "text": "SHAHJADPUR"
+  },
+  {
+    "value": 404480,
+    "text": "SHAILKUPA"
+  },
+  {
+    "value": 501094,
+    "text": "SHIBGANJ"
+  },
+  {
+    "value": 507088,
+    "text": "SHIBGANJ"
+  },
+  {
+    "value": 201586,
+    "text": "SITAKUNDA"
+  },
+  {
+    "value": 306704,
+    "text": "SONARGAON"
+  },
+  {
+    "value": 303386,
+    "text": "SREEPUR"
+  },
+  {
+    "value": 507683,
+    "text": "SUJANAGAR"
+  },
+  {
+    "value": 609162,
+    "text": "SYLHET SADAR"
+  },
+  {
+    "value": 302616,
+    "text": "Savar"
+  },
+  {
+    "value": 508194,
+    "text": "TANORE"
+  },
+  {
+    "value": 305994,
+    "text": "TONGIBARI"
+  },
+  {
+    "value": 306194,
+    "text": "TRISHAL"
+  },
+  {
+    "value": 303591,
+    "text": "TUNGIPARA"
+  },
+  {
+    "value": 554994,
+    "text": "ULIPUR"
+  },
+  {
+    "value": 508894,
+    "text": "ULLAH PARA"
+  },
+  {
+    "value": 100694,
+    "text": "WAZIRPUR"
+  }
+]
