@@ -1,0 +1,32 @@
+{
+    "DIVISIONS": [
+        {
+            "DIVISION_ID": "10",
+            "DIVISION_NAME": "BARISAL"
+        },
+        {
+            "DIVISION_ID": "20",
+            "DIVISION_NAME": "CHITTAGONG"
+        },
+        {
+            "DIVISION_ID": "30",
+            "DIVISION_NAME": "DHAKA"
+        },
+        {
+            "DIVISION_ID": "40",
+            "DIVISION_NAME": "KHULNA"
+        },
+        {
+            "DIVISION_ID": "50",
+            "DIVISION_NAME": "RAJSHAHI"
+        },
+        {
+            "DIVISION_ID": "60",
+            "DIVISION_NAME": "SYLHET"
+        },
+        {
+            "DIVISION_ID": "55",
+            "DIVISION_NAME": "RANGPUR"
+        }
+    ]
+}
