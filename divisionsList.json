@@ -1,32 +1,36 @@
 {
     "DIVISIONS": [
         {
-            "DIVISION_ID": "10",
-            "DIVISION_NAME": "BARISAL"
+            "DIVISION_CODE": "01",
+            "DIVISION_NAME": "Barishal"
         },
         {
-            "DIVISION_ID": "20",
-            "DIVISION_NAME": "CHITTAGONG"
+            "DIVISION_CODE": "02",
+            "DIVISION_NAME": "Chattogram"
         },
         {
-            "DIVISION_ID": "30",
-            "DIVISION_NAME": "DHAKA"
+            "DIVISION_CODE": "03",
+            "DIVISION_NAME": "Dhaka"
         },
         {
-            "DIVISION_ID": "40",
-            "DIVISION_NAME": "KHULNA"
+            "DIVISION_CODE": "04",
+            "DIVISION_NAME": "Khulna"
         },
         {
-            "DIVISION_ID": "50",
-            "DIVISION_NAME": "RAJSHAHI"
+            "DIVISION_CODE": "05",
+            "DIVISION_NAME": "Rajshahi"
         },
         {
-            "DIVISION_ID": "60",
-            "DIVISION_NAME": "SYLHET"
+            "DIVISION_CODE": "06",
+            "DIVISION_NAME": "Sylhet"
         },
         {
-            "DIVISION_ID": "55",
-            "DIVISION_NAME": "RANGPUR"
+            "DIVISION_CODE": "07",
+            "DIVISION_NAME": "Rangpur"
+        },
+        {
+            "DIVISION_CODE": "45",
+            "DIVISION_NAME": "Mymensingh"
         }
     ]
 }
